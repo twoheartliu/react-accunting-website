@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-accunting-website/static/css/main.b8707586.chunk.css",
+    "main.js": "/react-accunting-website/static/js/main.7d60ef8c.chunk.js",
+    "main.js.map": "/react-accunting-website/static/js/main.7d60ef8c.chunk.js.map",
+    "runtime-main.js": "/react-accunting-website/static/js/runtime-main.95a78fca.js",
+    "runtime-main.js.map": "/react-accunting-website/static/js/runtime-main.95a78fca.js.map",
+    "static/js/2.20d27677.chunk.js": "/react-accunting-website/static/js/2.20d27677.chunk.js",
+    "static/js/2.20d27677.chunk.js.map": "/react-accunting-website/static/js/2.20d27677.chunk.js.map",
+    "index.html": "/react-accunting-website/index.html",
+    "precache-manifest.549e34d8f0fbab23bd92a0d521691542.js": "/react-accunting-website/precache-manifest.549e34d8f0fbab23bd92a0d521691542.js",
+    "service-worker.js": "/react-accunting-website/service-worker.js",
+    "static/css/main.b8707586.chunk.css.map": "/react-accunting-website/static/css/main.b8707586.chunk.css.map",
+    "static/js/2.20d27677.chunk.js.LICENSE.txt": "/react-accunting-website/static/js/2.20d27677.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.95a78fca.js",
+    "static/js/2.20d27677.chunk.js",
+    "static/css/main.b8707586.chunk.css",
+    "static/js/main.7d60ef8c.chunk.js"
+  ]
+}
